@@ -1,0 +1,30 @@
+.home {
+    background-color: #efdffd;
+    text-align: center;
+}
+
+.home-page {
+    background-color: #efdffd;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton';
+    font-weight: 100;
+}
+
+h1 {
+    margin: 5em 0 0 0;
+    text-transform: uppercase;
+}
+
+a {
+    font-family: 'Roboto Slab', serif;
+    color: #651072;
+}
+
+footer {
+    font-family: 'Roboto Mono', serif;
+}
